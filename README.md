@@ -7,10 +7,10 @@ Your job will be to create functional safety documents based on what you learned
 
 ### Description of Repo Files
 
-This repo contains all the files to complete the car nanodegree functional safety project. We are also providing the same files in a google drive folder. Here is the link to the google drive folder: [Link to templates](https://drive.google.com/open?id=0ByaZfGJuntGTQWRpNUpuNVVGNlU)
+This repo contains all the files to complete the car nanodegree functional safety project. We are also providing the same files in a google drive folder. Here is the link to the Google Drive folder: [Link to templates](https://drive.google.com/open?id=0ByaZfGJuntGTQWRpNUpuNVVGNlU)
 
 
-The repo contains a pdf file called **Project_Instructions.pdf**. This document gives information about how to approach the project and what is expected. You'll also see a project template folder. There are five files in the folder. You should use these templates to develop your solution:
+The repo contains a PDF file called **Project_Instructions.pdf**. This document gives information about how to approach the project and what is expected. You'll also see a project template folder. There are five files in the folder. You should use these templates to develop your solution:
 
 
 * 01_SafetyPlan_LaneAssistance.doc
@@ -43,3 +43,7 @@ There are also open source word processors such as [LibreOffice](https://www.lib
 
 ### Submitting
 For your project submission, please export your work into pdf files. This will ensure that reviewers can review your work no matter what word processing and spreadsheet software you used.
+
+## How to write a README
+A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777).
+
